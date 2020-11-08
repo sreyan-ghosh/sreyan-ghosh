@@ -42,6 +42,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+</br>
+
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-olive.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/90c3d379852442159cec8d6cf6d1fe31)
+
 [twitter]: https://twitter.com/SreyanGhosh7
 [facebook]: https://www.facebook.com/profile.php?id=100001684286262
 [instagram]: https://www.instagram.com/_.sir_casm._/
