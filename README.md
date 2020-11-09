@@ -1,4 +1,4 @@
-<center>![github_readme_gif-min](https://user-images.githubusercontent.com/60854658/98540282-b66cb500-22b3-11eb-861f-5058841b62a5.gif)</center>
+                ![github_readme_gif-min](https://user-images.githubusercontent.com/60854658/98540282-b66cb500-22b3-11eb-861f-5058841b62a5.gif)
 </br>
 </br>
 
