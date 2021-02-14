@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other developers in Hacks and Projects
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about anything, absolutely anything
-- 🥅 2020 Goals: Become an ML developer capable of contributing to Open Source
+- 🥅 2021 Goals: Become an ML developer capable of contributing to Open Source
 - ⚡ Fun fact: I love to discover cool applications of tech and play Valorant 🤣
 </br>
 
