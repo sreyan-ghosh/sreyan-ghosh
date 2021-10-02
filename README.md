@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate with other developers in Hacks and Projects
 - 🤔 I’m looking for help with Deep Learning
 - 💬 Ask me about anything, absolutely anything
-- 🥅 2020 Goals: Become an ML developer capable of contributing to Open Source
+- 🥅 2021 Goals: Become an ML developer capable of contributing to Open Source
 - ⚡ Fun fact: I love to discover cool applications of tech and play Valorant 🤣
 </br>
 
@@ -99,15 +99,3 @@
 <br/>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sreyan-ghosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sreyan-ghosh&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
-
-```ts
-case 'gotham':
-      return {
-        areaColor: '2aa889',
-        bgColor: '0c1014',
-        borderColor: '2aa889',
-        color: '2aa889',
-        lineColor: '599cab',
-        pointColor: '99d1ce',
-      };
-```
