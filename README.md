@@ -16,13 +16,13 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on various projects that catch my fancy
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers in Hacks and Projects
-- 🤔 I’m looking for help with Deep Learning
-- 💬 Ask me about anything, absolutely anything
-- 🥅 2021 Goals: Become an ML developer capable of contributing to Open Source
-- ⚡ Fun fact: I love to discover cool applications of tech and play Valorant 🤣
+- 🔭 I’m currently working on Data Structures in Python
+- 🌱 I want to learn Devops
+- 👯 I’m looking to land an internship
+- 🤔 I’m looking for help with Deep Learning in autonomous vehicles
+- 💬 Ask me about Robert Langdon and Harry Potter
+- 🥅 2022 Goals: Write a research paper on localisation and mapping in autonomous vehicles
+- ⚡ Fun fact: I like dark mode cuz light attracts bugs.
 </br>
 
 ## 🔥 Streak stats
