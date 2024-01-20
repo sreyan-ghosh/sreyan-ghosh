@@ -11,7 +11,7 @@
 <div align="center">
   
   [![Gmail Badge](https://img.shields.io/badge/-sreyan2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sreyan2000@gmail.com)](mailto:sreyan2000@gmail.com)
-  [![Insta Badge](https://img.shields.io/badge/-ghoshted-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ghoshted/)](https://instagram.com/ghoshted/)
+  [![Insta Badge](https://img.shields.io/badge/-sreyan.gh-DD2A7B?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sreyan.gh/)](https://instagram.com/sreyan.gh/)
   [![Linkedin Badge](https://img.shields.io/badge/-sreyanghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sreyan-ghosh-b0722a18b/)](https://www.linkedin.com/in/sreyan-ghosh-b0722a18b/)
   [![Medium Badge](https://img.shields.io/badge/-@sreyan2000-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@sreyan2000)](https://medium.com/@sreyan2000)
   
