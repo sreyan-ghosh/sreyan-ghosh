@@ -100,4 +100,4 @@
 <br/>
 <br/>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-[![Sreyan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sreyan-ghosh&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true")](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sreyan-ghosh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sreyan-ghosh&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true"/></a>
