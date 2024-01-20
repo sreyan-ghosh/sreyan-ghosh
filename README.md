@@ -18,13 +18,13 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on Data Structures in Python
-- 🌱 I want to learn Devops
-- 👯 I’m looking to land an internship
-- 🤔 I’m looking for help with Deep Learning in autonomous vehicles
-- 💬 Ask me about Robert Langdon and Harry Potter
-- 🥅 2022 Goals: Write a research paper on localisation and mapping in autonomous vehicles
-- ⚡ Fun fact: I like dark mode cuz light attracts bugs.
+- 🔭 I’m currently working on acquiring the necessary skills in the data domain to become employable
+- 🌱 I want to learn DevSecOps
+- 👯 I’m looking to land an internship in Sweden
+- 🤔 I’m looking for help with image processing in the autonomous vehicle space
+- 💬 Ask me about commercial applications of data models in any domain 
+- 🥅 2024 Goals: Work on a research project on images to strengthen my signal processing and coding skills
+- ⚡ Fun fact: I like dark mode cuz light attracts bugs
 </br>
 
 ## 🔥 Streak stats
